@@ -1,17 +1,17 @@
-# Assignment Deadline Manager
+## Assignment Deadline Manager
 A C++ -based application developed for students to handle academic procrastination by managing schedules, tracking deadlines, and prioritizing courseworks based on its intensity scores.
 
-## Problem Statement = 
+## Problem Statement
 Students frequently manage multiple assignments across different courses, often with different deadlines, leading to missed due dates and difficulty with prioritizing tasks. Research shows that academic procrastination is a widespread challenge for students.
 
-## Objective = 
+## Objective
 The objective of this project is to provide a tool that helps students overcome poor scheduling, planning, and task prioritization by coordinating assignment tracking.
 
 ## Key Features & Urgency Classification
 The program categorizes tasks by accumulating points based on Time, Depth, and Volume of tasks:
-* **High urgency** = point accumulation of the parameter more than 70.
-* **Moderate urgency** = point of the parameter is 40–70.
-* **Low urgency** = point accumulation of the parameter less than 40.
+- High urgency = point accumulation of the parameter more than 70.
+- Moderate urgency = point of the parameter is 40–70.
+- Low urgency = point accumulation of the parameter less than 40.
 
 ## Core Menu Options
 1. Add assignment = input name, days left, deep analysis (Y/N), and number of tasks, then calculate urgency
